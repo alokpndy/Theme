@@ -1,3 +1,4 @@
+<theme>
 	<palette version="2" mode="light">
 		<color identifier="foreground" value="656565ff"/>
 		<color identifier="background" value="f2f3f5ff"/>
@@ -56,4 +57,4 @@
 	<item definition="footnote" colorsLight="1,0;0,-4;4,-4" colorsDark="1,1;10,-5;9,-5" traits=""/>
 	<item definition="image" colorsLight="1,0;0,-4;4,-4" colorsDark="1,1;10,-5;9,-5" traits=""/>
 	<item definition="video" colorsLight="1,0;0,-4;4,-4" colorsDark="1,1;10,-5;9,-5" traits=""/>
-</theme>PK4�����/.EQ_WY_E��E��	����������§Å����Theme.xmlPK������7���l����
+</theme>
