@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+   <theme version="4" displayName="Dracula" author="Brian Tkatch">
+	<palette version="2" mode="light">
+		<color identifier="foreground" value="f8f8f2ff"/>
+		<color identifier="background" value="282a36ff"/>
+		<color value="282a36ff"/>
+		<color value="44475aff"/>
+		<color value="6272a4ff"/>
+		<color value="f8f8f2ff"/>
+		<color value="8be9fdff"/>
+		<color value="50fa7bff"/>
+		<color value="ffb86cff"/>
+		<color value="ff79c6ff"/>
+		<color value="bd93f9ff"/>
+		<color value="ff5555ff"/>
+		<color value="f1fa8cff"/>
+	</palette>
+	<palette version="2" mode="dark">
+		<color identifier="foreground" value="f8f8f2ff"/>
+		<color identifier="background" value="282a36ff"/>
+		<color value="282a36ff"/>
+		<color value="44475aff"/>
+		<color value="6272a4ff"/>
+		<color value="f8f8f2ff"/>
+		<color value="8be9fdff"/>
+		<color value="50fa7bff"/>
+		<color value="ffb86cff"/>
+		<color value="ff79c6ff"/>
+		<color value="bd93f9ff"/>
+		<color value="ff5555ff"/>
+		<color value="f1fa8cff"/>
+	</palette>
+	
+	<item definition="heading1" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits="bold"/>
+	<item definition="heading2" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits="bold"/>
+	<item definition="heading3" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits="bold"/>
+	<item definition="heading4" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits="bold"/>
+	<item definition="heading5" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits=""/>
+	<item definition="heading6" colorsLight="8,0;8,0;" colorsDark="8,0;8,0;" traits=""/>
+	<item definition="codeblock" colorsLight="5,0;5,0;" colorsDark="5,0;5,0;" traits=""/>
+	<item definition="comment" colorsLight="2,0;2,0;" colorsDark="2,0;2,0;" traits=""/>
+	<item definition="nativeblock" colorsLight="5,0;5,0;" colorsDark="5,0;5,0;" traits=""/>
+	<item definition="blockquote" colorsLight="2,0;2,0;" colorsDark="2,0;2,0;" traits="bold"/>
+	<item definition="orderedList" colorsLight=";7,0;" colorsDark=";7,0;" traits="bold"/>
+	<item definition="unorderedList" colorsLight=";7,0;" colorsDark=";7,0;" traits="bold"/>
+	<item definition="divider" colorsLight=";7,0;" colorsDark=";7,0;" traits=""/>
+	<item definition="filename" colorsLight="4097,4;4097,4;2,-5" colorsDark="3,-5;3,-5;9,-5" traits=""/>
+	<item definition="cite" colorsLight=";;" colorsDark=";;" traits=""/>
+	<item definition="code" colorsLight="5,0;5,0;" colorsDark="5,0;5,0;" traits=""/>
+	<item definition="delete" colorsLight="9,0;9,0;" colorsDark="9,0;9,0;" traits="strikethrough"/>
+	<item definition="emph" colorsLight="10,0;10,0;" colorsDark="10,0;10,1;" traits="bold,italic"/>
+	<item definition="inlineComment" colorsLight="2,0;2,0;" colorsDark="2,0;2,0;" traits=""/>
+	<item definition="inlineNative" colorsLight="5,0;5,0;" colorsDark="5,0;5,0;" traits=""/>
+	<item definition="mark" colorsLight="4,0;4,0;" colorsDark="4,0;4,0;" traits=""/>
+	<item definition="strong" colorsLight="6,0;6,0;" colorsDark="6,0;6,0;" traits="bold"/>
+	<item definition="annotation" colorsLight="4,0;2,0;" colorsDark="4,0;2,0;" traits=""/>
+	<item definition="link" colorsLight="4,0;;" colorsDark="4,0;;" traits="bold"/>
+	<item definition="footnote" colorsLight="1,1;7,0;2,0" colorsDark="1,-1;7,0;2,0" traits=""/>
+	<item definition="image" colorsLight="1,1;7,0;2,0" colorsDark="1,-1;7,0;2,0" traits=""/>
+	<item definition="video" colorsLight="1,1;7,0;2,0" colorsDark="1,-1;7,0;2,0" traits=""/>
+</theme>
