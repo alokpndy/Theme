@@ -38,7 +38,7 @@
 	<item definition="heading5" colorsLight="1,1;4097,3;1,-4" colorsDark="3,-1;4096,6;3,-4" traits="bold"/>
 	<item definition="heading6" colorsLight="1,1;4097,3;1,-4" colorsDark="3,-1;4096,6;3,-4" traits="bold"/>
 	<item definition="codeblock" colorsLight="9,1;4097,3;" colorsDark="8,1;4096,6;" traits=""/>
-	<item definition="comment" colorsLight="5,-1;4097,3;5,-4" colorsDark="6,1;4096,6;6,5" traits=""/>
+	<item definition="comment" colorsLight="5,-1;4097,3;5,-4" colorsDark="6,-4;4096,6;6,5" traits=""/>
 	<item definition="nativeblock" colorsLight="7,2;4097,3;" colorsDark="7,-2;;" traits=""/>
 	<item definition="blockquote" colorsLight="1,2;1,1;4097,1" colorsDark="3,-2;3,-1;" traits=""/>
 	<item definition="orderedList" colorsLight=";1,1;" colorsDark=";3,-1;" traits=""/>
@@ -50,7 +50,7 @@
 	<item definition="emph" colorsLight="9,2;4097,3;" colorsDark="8,0;4096,6;" traits="italic,underline"/>
 	<item definition="inlineComment" colorsLight="2,2;4097,3;" colorsDark="0,0;4096,6;" traits=""/>
 	<item definition="inlineNative" colorsLight="7,2;4097,3;" colorsDark="4097,8;7,-2;" traits=""/>
-	<item definition="mark" colorsLight="8,-5;0,0;5,2" colorsDark="10,-6;10,1;6,-2" traits=""/>
+	<item definition="mark" colorsLight="8,-5;0,0;5,2" colorsDark="10,-8;10,1;6,-2" traits=""/>
 	<item definition="strong" colorsLight="4096,10;4097,3;" colorsDark="10,4;4096,6;" traits="bold"/>
 	<item definition="annotation" colorsLight="2,-2;2,-4;4097,4" colorsDark="0,5;0,2;" traits=""/>
 	<item definition="link" colorsLight="9,3;9,-2;4097,3" colorsDark="8,3;8,-2;8,-2" traits=""/>
