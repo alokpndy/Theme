@@ -31,19 +31,19 @@
 		<color value="6da980ff"/>
 	</palette>
 	
-	<item definition="heading1" colorsLight="4,-6;4,0;" colorsDark="10,0;10,-6;" traits="bold"/>
-	<item definition="heading2" colorsLight="4,-6;4,0;" colorsDark="10,0;10,-6;" traits="bold"/>
-	<item definition="heading3" colorsLight="4,-6;4,0;" colorsDark="10,0;10,-6;" traits="bold"/>
-	<item definition="heading4" colorsLight="4,-6;4,0;" colorsDark="10,0;10,-6;" traits="bold"/>
-	<item definition="heading5" colorsLight="4,-6;4,0;" colorsDark="10,0;10,-6;" traits="bold"/>
+	<item definition="heading1" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
+	<item definition="heading2" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
+	<item definition="heading3" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
+	<item definition="heading4" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
+	<item definition="heading5" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
 	<item definition="heading6" colorsLight="4,0;4,-6;" colorsDark="10,0;10,-6;" traits="bold"/>
 	<item definition="codeblock" colorsLight="0,0;0,0;" colorsDark="7,0;7,0;" traits=""/>
-	<item definition="comment" colorsLight="5,0;5,0;5,-9" colorsDark="3,0;3,0;8,-9" traits=""/>
+	<item definition="comment" colorsLight="5,-6;5,0;5,-9" colorsDark="3,0;3,0;8,-9" traits=""/>
 	<item definition="nativeblock" colorsLight="0,0;0,0;0,-8" colorsDark="7,0;7,0;" traits=""/>
 	<item definition="blockquote" colorsLight="7,0;7,0;7,-9" colorsDark="4,0;4,0;4,-9" traits="italic"/>
 	<item definition="orderedList" colorsLight="7,0;7,0;" colorsDark="6,0;6,0;" traits=""/>
 	<item definition="unorderedList" colorsLight="7,0;7,0;" colorsDark="6,0;6,0;" traits=""/>
-	<item definition="divider" colorsLight="6,0;6,0;" colorsDark="10,0;10,0;" traits=""/>
+	<item definition="divider" colorsLight="6,0;6,0;6,-9" colorsDark="10,0;10,0;10,-9" traits=""/>
 	<item definition="filename" colorsLight="5,0;5,0;" colorsDark="3,0;3,0;" traits=""/>
 	<item definition="cite" colorsLight="3,0;3,0;" colorsDark="6,0;6,0;" traits=""/>
 	<item definition="code" colorsLight="0,0;0,0;" colorsDark="0,0;0,0;" traits=""/>
