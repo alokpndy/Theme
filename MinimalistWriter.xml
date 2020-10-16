@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+    <theme version="4" displayName="Minimalistic Writer" author="Bennett Comfort">
+	<palette version="2" mode="light">
+		<color identifier="foreground" value="3c3c3cff"/>
+		<color identifier="background" value="f2f2f2ff"/>
+		<color value="459dc9ff"/>
+		<color value="457ec9ff"/>
+		<color value="8c418aff"/>
+		<color value="c44287ff"/>
+		<color value="883135ff"/>
+		<color value="aa4f32ff"/>
+		<color value="8e5f19ff"/>
+		<color value="beac26ff"/>
+		<color value="efe760ff"/>
+		<color value="5bb761ff"/>
+		<color value="5a917eff"/>
+	</palette>
+	<palette version="2" mode="dark">
+		<color identifier="foreground" value="c2c2c2ff"/>
+		<color identifier="background" value="1a1a1aff"/>
+		<color value="459dc9ff"/>
+		<color value="457ec9ff"/>
+		<color value="8c418aff"/>
+		<color value="c44287ff"/>
+		<color value="883135ff"/>
+		<color value="aa4f32ff"/>
+		<color value="8e5f19ff"/>
+		<color value="beac26ff"/>
+		<color value="efe760ff"/>
+		<color value="5bb761ff"/>
+		<color value="5a917eff"/>
+	</palette>
+	
+	<item definition="heading1" colorsLight=";4096,5;4096,1" colorsDark="4096,0;4096,3;4096,9" traits="bold"/>
+	<item definition="heading2" colorsLight=";4096,5;" colorsDark="4096,0;4096,3;" traits="bold"/>
+	<item definition="heading3" colorsLight=";4096,5;" colorsDark="4096,2;4096,2;" traits="bold"/>
+	<item definition="heading4" colorsLight=";4096,4;" colorsDark=";4096,3;" traits="bold,italic"/>
+	<item definition="heading5" colorsLight=";4096,4;" colorsDark=";4096,3;" traits="bold,italic"/>
+	<item definition="heading6" colorsLight=";4096,4;" colorsDark=";4096,3;" traits="bold,italic"/>
+	<item definition="codeblock" colorsLight="9,3;4096,1;4097,1" colorsDark="9,3;4096,8;4096,9" traits=""/>
+	<item definition="comment" colorsLight="1,3;4096,2;" colorsDark="0,-2;4096,9;" traits="italic"/>
+	<item definition="nativeblock" colorsLight="5,-2;4096,1;4097,1" colorsDark="5,0;4096,8;4096,9" traits=""/>
+	<item definition="blockquote" colorsLight=";7,-2;" colorsDark=";8,4;" traits=""/>
+	<item definition="orderedList" colorsLight=";4096,3;" colorsDark=";4096,5;" traits=""/>
+	<item definition="unorderedList" colorsLight=";4096,3;" colorsDark=";4096,5;" traits=""/>
+	<item definition="divider" colorsLight=";4096,3;" colorsDark=";4096,6;" traits="bold"/>
+	<item definition="filename" colorsLight="5,2;5,2;4096,1" colorsDark="5,-1;5,-1;4096,9" traits="italic"/>
+	<item definition="cite" colorsLight=";;" colorsDark=";;" traits=""/>
+	<item definition="code" colorsLight="9,3;4096,1;4096,1" colorsDark="9,2;4096,9;4096,9" traits=""/>
+	<item definition="delete" colorsLight=";4096,3;" colorsDark=";4096,6;" traits="strikethrough"/>
+	<item definition="emph" colorsLight=";4096,3;" colorsDark=";4096,6;" traits="italic"/>
+	<item definition="inlineComment" colorsLight="1,3;4096,2;" colorsDark="0,-2;4096,9;" traits="italic"/>
+	<item definition="inlineNative" colorsLight="5,1;4096,1;4096,1" colorsDark="5,0;4096,8;4096,9" traits=""/>
+	<item definition="mark" colorsLight=";4096,3;" colorsDark=";4096,6;" traits="underline"/>
+	<item definition="strong" colorsLight=";4096,3;" colorsDark=";4096,6;" traits="bold"/>
+	<item definition="annotation" colorsLight=";1,0;" colorsDark=";1,0;" traits=""/>
+	<item definition="link" colorsLight=";4,-1;" colorsDark=";4,0;" traits=""/>
+	<item definition="footnote" colorsLight=";7,-2;" colorsDark=";8,3;" traits=""/>
+	<item definition="image" colorsLight=";4,-1;" colorsDark=";4,0;" traits=""/>
+	<item definition="video" colorsLight=";5,-1;" colorsDark=";5,0;" traits=""/>
+</theme>
