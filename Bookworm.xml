@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+    <theme version="4" displayName="Bookworm" author="Agust&#xED;n Cordes">
+        <palette version="2" mode="light">
+            <color identifier="foreground" value="4f331aff"/>
+            <color identifier="background" value="f8f1e2ff"/>
+            <color value="bca996ff"/>
+            <color value="f8a7b3ff"/>
+            <color value="d2a8e3ff"/>
+            <color value="f7de5cff"/>
+            <color value="c1c4c1ff"/>
+            <color value="e9250dff"/>
+            <color value="cc8038ff"/>
+            <color value="054564ff"/>
+            <color value="bcdf64ff"/>
+            <color value="000000ff"/>
+            <color value="ffffffff"/>
+        </palette>
+        <palette version="2" mode="dark">
+            <color identifier="foreground" value="bebebeff"/>
+            <color identifier="background" value="000000ff"/>
+            <color value="353535ff"/>
+            <color value="5e2d42ff"/>
+            <color value="422d62ff"/>
+            <color value="5e4713ff"/>
+            <color value="606a73ff"/>
+            <color value="a01416ff"/>
+            <color value="cc8038ff"/>
+            <color value="8a8ee4ff"/>
+            <color value="2a4713ff"/>
+            <color value="000000ff"/>
+            <color value="ffffffff"/>
+        </palette>
+        
+        <item definition="heading1" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="bold"/>
+        <item definition="heading2" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="bold"/>
+        <item definition="heading3" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="bold"/>
+        <item definition="heading4" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="bold"/>
+        <item definition="heading5" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits=""/>
+        <item definition="heading6" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits=""/>
+        <item definition="codeblock" colorsLight="8,5;8,3;8,0" colorsDark="8,3;8,2;8,0" traits=""/>
+        <item definition="comment" colorsLight="0,0;0,-3;" colorsDark="0,0;0,-2;" traits=""/>
+        <item definition="nativeblock" colorsLight="8,5;8,3;8,0" colorsDark="8,3;8,2;8,0" traits=""/>
+        <item definition="blockquote" colorsLight="4097,10;0,2;2,0" colorsDark="4097,10;0,2;2,0" traits="italic"/>
+        <item definition="orderedList" colorsLight=";7,0;" colorsDark=";7,-3;" traits="bold"/>
+        <item definition="unorderedList" colorsLight=";7,0;" colorsDark=";7,-3;" traits="bold"/>
+        <item definition="divider" colorsLight=";4,0;" colorsDark=";4,0;" traits=""/>
+        <item definition="filename" colorsLight="4097,4;4097,4;2,-5" colorsDark="3,-5;3,-5;9,-5" traits=""/>
+        <item definition="cite" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="code" colorsLight="8,5;8,3;8,0" colorsDark="8,3;8,2;8,0" traits=""/>
+        <item definition="delete" colorsLight="0,0;0,-3;" colorsDark="0,0;0,-2;" traits="strikethrough"/>
+        <item definition="emph" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="italic"/>
+        <item definition="inlineComment" colorsLight="5,0;5,-4;" colorsDark="5,0;5,-3;" traits=""/>
+        <item definition="inlineNative" colorsLight="8,5;8,3;8,0" colorsDark="8,3;8,2;8,0" traits=""/>
+        <item definition="mark" colorsLight="4097,10;3,2;3,0" colorsDark="4097,10;3,2;3,0" traits=""/>
+        <item definition="strong" colorsLight="4097,10;0,-3;" colorsDark="4097,10;0,-1;" traits="bold"/>
+        <item definition="annotation" colorsLight="3,3;3,0;3,0" colorsDark="3,3;3,0;3,2" traits=""/>
+        <item definition="link" colorsLight="8,3;8,0;8,0" colorsDark="8,3;8,0;8,2" traits=""/>
+        <item definition="footnote" colorsLight="1,1;3,0;3,0" colorsDark="1,-1;3,0;3,2" traits=""/>
+        <item definition="image" colorsLight="1,1;1,0;1,0" colorsDark="1,-1;1,0;1,2" traits=""/>
+        <item definition="video" colorsLight="1,1;2,0;2,0" colorsDark="1,-1;2,0;2,2" traits=""/>
+    </theme>
