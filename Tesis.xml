@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+  <theme version="4" displayName="Tesis" author="Christian">
+    <palette version="2" mode="light">
+      <color identifier="foreground" value="141414ff"/>
+      <color identifier="background" value="ffffffff"/>
+      <color value="4c4f5aff"/>
+      <color value="8e908cff"/>
+      <color value="c2272fff"/>
+      <color value="f28531ff"/>
+      <color value="f5b92dff"/>
+      <color value="7b9b20ff"/>
+      <color value="2f8e5dff"/>
+      <color value="359ba8ff"/>
+      <color value="4c6da6ff"/>
+      <color value="8952a5ff"/>
+      <color value="d65966ff"/>
+    </palette>
+    <palette version="2" mode="dark">
+      <color identifier="foreground" value="c8cdc9ff"/>
+      <color identifier="background" value="1d1f21ff"/>
+      <color value="ffffffff"/>
+      <color value="646564ff"/>
+      <color value="e04f54ff"/>
+      <color value="f39951ff"/>
+      <color value="f4cb5aff"/>
+      <color value="b1c25aff"/>
+      <color value="62b26dff"/>
+      <color value="55bdc2ff"/>
+      <color value="5082c4ff"/>
+      <color value="ab83c4ff"/>
+      <color value="f69ea2ff"/>
+    </palette>
+
+    <item definition="heading1" colorsLight="2,0;2,0;4096,0" colorsDark=";;" traits="bold"/>
+    <item definition="heading2" colorsLight="2,0;2,0;" colorsDark=";;" traits="bold"/>
+    <item definition="heading3" colorsLight="2,0;2,0;" colorsDark=";;" traits="bold"/>
+    <item definition="heading4" colorsLight="2,0;2,0;" colorsDark=";;" traits=""/>
+    <item definition="heading5" colorsLight="2,0;2,0;" colorsDark=";;" traits=""/>
+    <item definition="heading6" colorsLight=";2,0;" colorsDark=";;" traits=""/>
+    <item definition="codeblock" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="comment" colorsLight="2,0;2,0;" colorsDark=";;" traits=""/>
+    <item definition="nativeblock" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="blockquote" colorsLight="1,-1;4,0;" colorsDark=";;" traits=""/>
+    <item definition="orderedList" colorsLight=";2,-1;" colorsDark=";;" traits="bold"/>
+    <item definition="unorderedList" colorsLight=";4,-1;" colorsDark=";;" traits="bold"/>
+    <item definition="divider" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="cite" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="code" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="delete" colorsLight="4096,3;;" colorsDark=";;" traits="strikethrough"/>
+    <item definition="emph" colorsLight=";;" colorsDark=";;" traits="italic"/>
+    <item definition="inlineComment" colorsLight="4,0;4,0;" colorsDark=";;" traits=""/>
+    <item definition="inlineNative" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="mark" colorsLight=";;4,-4" colorsDark=";;" traits=""/>
+    <item definition="strong" colorsLight="4097,10;4097,10;" colorsDark=";;" traits="bold"/>
+    <item definition="annotation" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="link" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="footnote" colorsLight=";4,-1;4,-1" colorsDark=";4,0;4,0" traits=""/>
+    <item definition="image" colorsLight=";;" colorsDark=";;" traits=""/>
+    <item definition="video" colorsLight=";;" colorsDark=";;" traits=""/>
+</theme>
