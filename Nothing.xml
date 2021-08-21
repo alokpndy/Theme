@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <theme version="4" displayName="Nothing" author="tmartschinke">
+        <palette version="2" mode="light">
+            <color identifier="foreground" value="000000ff"/>
+            <color identifier="background" value="ffffffff"/>
+            <color value="5e626dff"/>
+            <color value="9fa19eff"/>
+            <color value="cf3c3dff"/>
+            <color value="f6983fff"/>
+            <color value="f8c43aff"/>
+            <color value="8da82aff"/>
+            <color value="389d70ff"/>
+            <color value="3faab7ff"/>
+            <color value="5e82b5ff"/>
+            <color value="9c6ab4ff"/>
+            <color value="e07079ff"/>
+        </palette>
+        <palette version="2" mode="dark">
+            <color identifier="foreground" value="ffffffff"/>
+            <color identifier="background" value="000000ff"/>
+            <color value="5e626dff"/>
+            <color value="9fa19eff"/>
+            <color value="cf3c3dff"/>
+            <color value="f6983fff"/>
+            <color value="f8c43aff"/>
+            <color value="8da82aff"/>
+            <color value="389d70ff"/>
+            <color value="3faab7ff"/>
+            <color value="5e82b5ff"/>
+            <color value="9c6ab4ff"/>
+            <color value="e07079ff"/>
+        </palette>
+        
+        <item definition="heading1" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="heading2" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="heading3" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="heading4" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="heading5" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="heading6" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="codeblock" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="comment" colorsLight=";;" colorsDark=";;" traits="italic"/>
+        <item definition="nativeblock" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="blockquote" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="orderedList" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="unorderedList" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="divider" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="code" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="delete" colorsLight=";;" colorsDark=";;" traits="strikethrough"/>
+        <item definition="emph" colorsLight=";;" colorsDark=";;" traits="italic"/>
+        <item definition="inlineComment" colorsLight=";;" colorsDark=";;" traits="italic"/>
+        <item definition="inlineNative" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="mark" colorsLight=";;" colorsDark=";;" traits="underline"/>
+        <item definition="strong" colorsLight=";;" colorsDark=";;" traits="bold"/>
+        <item definition="annotation" colorsLight=";4096,1;" colorsDark=";4096,8;" traits="italic"/>
+        <item definition="link" colorsLight=";4096,1;" colorsDark=";4096,8;" traits=""/>
+        <item definition="footnote" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="image" colorsLight=";;" colorsDark=";;" traits=""/>
+        <item definition="video" colorsLight=";;" colorsDark=";;" traits=""/>
+    </theme>
