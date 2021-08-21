@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <theme version="4" displayName="Nevis" author="Alex Roddie">
+        <palette version="2" mode="light">
+            <color identifier="foreground" value="1e1e1eff"/>
+            <color identifier="background" value="ffffffff"/>
+            <color value="929292ff"/>
+            <color value="646464ff"/>
+            <color value="cfb800ff"/>
+            <color value="ffd400ff"/>
+            <color value="424242ff"/>
+            <color value="ee8765ff"/>
+            <color value="424242ff"/>
+            <color value="9f8e43ff"/>
+            <color value="086900ff"/>
+            <color value="000000ff"/>
+            <color value="ffffffff"/>
+        </palette>
+        <palette version="2" mode="dark">
+            <color identifier="foreground" value="eaf4fbff"/>
+            <color identifier="background" value="000000ff"/>
+            <color value="7fc9f6ff"/>
+            <color value="d52b00ff"/>
+            <color value="fff159ff"/>
+            <color value="fff9caff"/>
+            <color value="2c5ba8ff"/>
+            <color value="ffa887ff"/>
+            <color value="ffa84eff"/>
+            <color value="b3ca6fff"/>
+            <color value="04f928ff"/>
+            <color value="000000ff"/>
+            <color value="ffffffff"/>
+        </palette>
+        
+        <item definition="heading1" colorsLight="6,0;4096,3;" colorsDark="2,0;4,0;4096,9" traits="bold"/>
+        <item definition="heading2" colorsLight="4,0;4096,3;" colorsDark="3,0;4,0;4096,9" traits="bold"/>
+        <item definition="heading3" colorsLight="4,0;4096,3;" colorsDark="3,0;4,0;" traits="italic"/>
+        <item definition="heading4" colorsLight="4096,10;4096,3;" colorsDark="10,1;4,0;" traits=""/>
+        <item definition="heading5" colorsLight="4096,10;4096,3;" colorsDark="10,1;4,0;" traits=""/>
+        <item definition="heading6" colorsLight="9,0;4096,3;" colorsDark="10,1;4,0;" traits="bold"/>
+        <item definition="codeblock" colorsLight="8,0;0,-4;8,-5" colorsDark="8,0;4,0;8,-5" traits=""/>
+        <item definition="comment" colorsLight="1,0;6,-3;1,-5" colorsDark="6,0;4,0;6,-5" traits="italic"/>
+        <item definition="nativeblock" colorsLight="8,1;0,-4;8,-5" colorsDark="8,1;4,0;8,-5" traits=""/>
+        <item definition="blockquote" colorsLight="4,0;0,-3;0,-5" colorsDark="0,0;0,-3;" traits="italic"/>
+        <item definition="orderedList" colorsLight=";4,-2;" colorsDark=";3,0;" traits="bold"/>
+        <item definition="unorderedList" colorsLight=";4,-2;" colorsDark=";3,0;" traits="bold"/>
+        <item definition="divider" colorsLight=";4096,3;0,-5" colorsDark=";10,0;4096,9" traits=""/>
+        <item definition="filename" colorsLight="4097,4;4097,4;4097,1" colorsDark="3,-4;3,-4;3,-5" traits=""/>
+        <item definition="cite" colorsLight="4,0;0,-3;" colorsDark="0,-2;4,-2;" traits=""/>
+        <item definition="code" colorsLight="8,1;8,-4;8,-5" colorsDark="8,0;8,-4;8,-5" traits=""/>
+        <item definition="delete" colorsLight="6,2;5,2;" colorsDark="5,-2;5,-3;" traits=""/>
+        <item definition="emph" colorsLight="6,4;0,-4;" colorsDark="0,2;4,-3;" traits="italic"/>
+        <item definition="inlineComment" colorsLight="1,0;0,-4;" colorsDark="6,0;4,0;" traits="italic"/>
+        <item definition="inlineNative" colorsLight="8,1;8,-4;8,-5" colorsDark="8,0;8,-4;8,-5" traits=""/>
+        <item definition="mark" colorsLight="4,5;0,5;" colorsDark="0,5;0,5;" traits=""/>
+        <item definition="strong" colorsLight="6,4;0,-4;" colorsDark="0,2;4,-3;" traits="bold"/>
+        <item definition="annotation" colorsLight="8,2;2,-2;7,-4" colorsDark="7,3;7,-4;3,-5" traits="italic"/>
+        <item definition="link" colorsLight="4,0;0,-1;0,-3" colorsDark="0,0;4,0;4,-1" traits=""/>
+        <item definition="footnote" colorsLight="1,1;4,-1;0,-1" colorsDark="1,-1;6,-1;1,-4" traits=""/>
+        <item definition="image" colorsLight="1,1;1,-4;1,-4" colorsDark="1,-1;6,-1;1,-4" traits=""/>
+        <item definition="video" colorsLight="1,1;1,-4;1,-4" colorsDark="1,-1;6,-1;1,-4" traits=""/>
+    </theme>
