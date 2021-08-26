@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <theme version="5" displayName="SubMonokai" author="ScruffyDan">
+	<palette version="2" mode="light">
+		<color identifier="foreground" value="556e75ff"/>
+		<color identifier="background" value="fef7e2ff"/>
+		<color value="b88900ff"/>
+		<color value="ce4b00ff"/>
+		<color value="e13027ff"/>
+		<color value="d73182ff"/>
+		<color value="6970c6ff"/>
+		<color value="028ad4ff"/>
+		<color value="10a198ff"/>
+		<color value="859b00ff"/>
+		<color value="ffffffff"/>
+		<color value="929292ff"/>
+		<color value="000000ff"/>
+	</palette>
+	<palette version="2" mode="dark">
+		<color identifier="foreground" value="f9f9f5ff"/>
+		<color identifier="background" value="272821ff"/>
+		<color value="ed3a2cff"/>
+		<color value="ff9800ff"/>
+		<color value="e6dc6dff"/>
+		<color value="bfe544ff"/>
+		<color value="fb2b71ff"/>
+		<color value="02dff3ff"/>
+		<color value="0197f3ff"/>
+		<color value="f9f9f5ff"/>
+		<color value="888471ff"/>
+		<color value="929292ff"/>
+		<color value="272821ff"/>
+	</palette>
+	
+	<item definition="heading1" colorsLight="4097,9;4097,9;" colorsDark="6,0;2,0;" traits="bold" scale="L"/>
+	<item definition="heading2" colorsLight="4097,9;4097,9;" colorsDark="6,0;2,0;" traits="bold" scale="M"/>
+	<item definition="heading3" colorsLight="4097,9;4097,9;" colorsDark="6,0;2,0;" traits="bold" scale="S"/>
+	<item definition="heading4" colorsLight="4097,9;4097,9;" colorsDark="5,0;2,0;" scale="S"/>
+	<item definition="heading5" colorsLight="4097,9;4097,9;" colorsDark="5,0;2,0;" scale="S"/>
+	<item definition="heading6" colorsLight="4097,9;4097,9;" colorsDark="5,0;2,0;" scale="S"/>
+	<item definition="codeblock" colorsLight="2,4;2,4;2,-5" colorsDark="1,0;2,0;2,-5" traits="bold"/>
+	<item definition="comment" colorsLight="4097,3;4097,2;9,-5" colorsDark="4097,2;4097,2;10,-5"/>
+	<item definition="nativeblock" colorsLight="2,4;2,4;2,-5" colorsDark="1,0;2,0;2,-5" traits="bold"/>
+	<item definition="blockquote" colorsLight="5,4;4097,8;" colorsDark="5,0;2,0;" traits="bold"/>
+	<item definition="orderedList" colorsLight=";5,4;" colorsDark=";1,0;" traits="bold"/>
+	<item definition="unorderedList" colorsLight=";5,4;" colorsDark=";2,0;"/>
+	<item definition="divider" colorsLight=";;" colorsDark=";;"/>
+	<item definition="filename" colorsLight="4097,5;4097,5;9,-5" colorsDark="4097,5;4097,5;10,-5"/>
+	<item definition="cite" colorsLight=";;" colorsDark=";;"/>
+	<item definition="code" colorsLight="0,3;5,-3;" colorsDark="1,0;2,0;2,-5"/>
+	<item definition="delete" colorsLight="5,4;4097,2;" colorsDark="4097,10;2,0;9,-4" traits="strikethrough"/>
+	<item definition="emph" colorsLight="5,4;4097,2;" colorsDark=";1,0;" traits="italic"/>
+	<item definition="inlineComment" colorsLight="4097,3;4097,3;" colorsDark="2,1;2,1;"/>
+	<item definition="inlineNative" colorsLight="0,3;5,-3;" colorsDark="1,0;2,0;2,-5"/>
+	<item definition="mark" colorsLight=";4097,3;2,-5" colorsDark="4097,10;1,0;9,-4"/>
+	<item definition="strong" colorsLight="5,4;4097,2;" colorsDark="2,0;1,0;" traits="bold"/>
+	<item definition="annotation" colorsLight="4097,9;0,-4;0,-3" colorsDark="9,4;2,0;0,-3"/>
+	<item definition="link" colorsLight="4097,9;4097,2;" colorsDark="5,0;2,0;6,0"/>
+	<item definition="footnote" colorsLight=";5,-3;" colorsDark=";5,0;"/>
+	<item definition="image" colorsLight="8,0;4097,2;" colorsDark="8,0;2,0;8,0"/>
+	<item definition="video" colorsLight=";4097,2;" colorsDark=";1,0;8,0"/>
+</theme>
