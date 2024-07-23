@@ -1,5 +1,6 @@
 # A Mermaid Syntax
-''' mermaid
+
+'''mermaid
 gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
